@@ -4,7 +4,8 @@ Modern arayüzlü Python programı ile Türkiye'nin yurt dışındaki konsoloslu
 
 ## 📸 Ekran Görüntüsü
 
-![Program Ekran Görüntüsü](onzleme.png)
+![onizleme](https://github.com/user-attachments/assets/138c8f60-e419-4f21-b08a-1a496db39abe)
+
 
 *Modern ve kullanıcı dostu arayüz ile kolay konsolosluk sorgulama*
 
