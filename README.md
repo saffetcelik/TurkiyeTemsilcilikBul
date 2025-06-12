@@ -2,6 +2,12 @@
 
 Modern arayüzlü Python programı ile Türkiye'nin yurt dışındaki konsolosluk ve büyükelçilik bilgilerini posta koduna göre sorgulayın.
 
+## 📸 Ekran Görüntüsü
+
+![Program Ekran Görüntüsü](onzleme.png)
+
+*Modern ve kullanıcı dostu arayüz ile kolay konsolosluk sorgulama*
+
 ## ✨ Özellikler
 
 - 🎨 **Modern GUI**: Tkinter ile tasarlanmış şık arayüz
@@ -35,7 +41,7 @@ python temsilcilik_bulucu.py
 
 ### Program Arayüzü
 
-Program açıldığında modern bir pencere görünecek:
+Program açıldığında yukarıdaki ekran görüntüsündeki gibi modern bir pencere görünecek:
 
 1. **📮 Posta Kodu**: Sorgulamak istediğiniz posta kodunu girin
 2. **🌍 Ülke**: Dropdown menüden ülke seçin (opsiyonel)
