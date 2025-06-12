@@ -1,0 +1,3 @@
+# Bu program için ek paket gerekmez
+# Tkinter Python ile birlikte gelir
+# Sadece Python 3.6+ yeterlidir
